@@ -1,7 +1,18 @@
 # Go to the folder which you need to add to GIT
 # Right click on folder -> Add gitbash here
 
+# Github account: mukeshindia156@gmail.com / Iris@2610
+
+# git config --global user.email "mukeshindia156@gmail.com"
+# git config --global user.name "mukeshindia156"
+
 # git init
 # git status
 # git add
 # git commit -m
+# git remote add origin https://github.com/mukeshindia156/repo1.git
+# git push -u origin master
+
+# git log
+# git --help
+
