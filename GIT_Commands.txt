@@ -3,9 +3,11 @@
 
 # Github account: mukeshindia156@gmail.com / Iris@2610
 
+## global commands
 # git config --global user.email "mukeshindia156@gmail.com"
 # git config --global user.name "mukeshindia156"
 
+## git Commands
 # git init
 # git status
 # git add
@@ -15,4 +17,21 @@
 
 # git log
 # git --help
+
+## making a new branch
+# git branch branch1
+# git checkout branch1
+# touch test2.txt
+## Add some text in test2.txt
+# git status
+# git add .
+# git commit -m "added test2.txt"
+# git status
+# git push -u origin branch1
+## Now you will see 2 branches, [master and branch1 in Github repository]
+
+## To merge new branch(branch1) in master, you need to checkout the master branch first
+# git checkout master
+# git merge branch1
+
 
