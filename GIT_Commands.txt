@@ -1,0 +1,7 @@
+# Go to the folder which you need to add to GIT
+# Right click on folder -> Add gitbash here
+
+# git init
+# git status
+# git add
+# git commit -m
