@@ -34,4 +34,7 @@
 # git checkout master
 # git merge branch1
 
+# git branch -d branch1  [delete from local]
+# git push origin --delete branch1
+
 
