@@ -38,3 +38,8 @@
 # git push origin --delete branch1
 
 
+## send email notification whenever any change happens in the repo1
+## select the repo1 in the Github account, then settings -> then, Notifications on left side
+## add the email address where you want the notifications for the changes.
+
+
